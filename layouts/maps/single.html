@@ -1,0 +1,7 @@
+<h1>{{ .Title }}</h1>
+
+<div class="gallery">
+  {{ range .Params.images }}
+    <img src="{{ $.Site.Params.imageBaseURL }}/maps/{{ $.Params.slug }}/{{ . }}">
+  {{ end }}
+</div>
