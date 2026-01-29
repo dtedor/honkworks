@@ -5,3 +5,7 @@ theme = 'Gallery'
 
 [params]
   imageBaseURL = "https://assets.honkworks.net"
+
+[module]
+    [[module.imports]]
+        path = "github.com/nicokaiser/hugo-theme-gallery/v4"
