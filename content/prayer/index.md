@@ -4,7 +4,7 @@ sort_by: Name
 title: Prayer
 description: My first released map.
 resources:
-  - src: prayer1.png
+  - src: /cdn-assets/prayer1.png
     params:
       cover: true
 ---

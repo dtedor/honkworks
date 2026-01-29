@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Honkworks'
 
 [params]
-  imageBaseURL = "https://assets.honkworks.net"
+  cdnBaseURL = "https://assets.honkworks.net/"
+  cdnLocalAssetPrefix = "/cdn-assets/"
 
 [module]
     [[module.imports]]
