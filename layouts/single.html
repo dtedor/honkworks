@@ -2,6 +2,6 @@
 
 <div class="gallery">
   {{ range .Params.images }}
-    <img src="{{ $.Site.Params.imageBaseURL }}/maps/{{ $.Params.slug }}/{{ . }}">
+    <img src="{{ $.Site.Params.imageBaseURL }}{{ $.Params.slug }}/{{ . }}">
   {{ end }}
 </div>
