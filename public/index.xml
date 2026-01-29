@@ -9,23 +9,23 @@
     <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Honktower</title>
-      <link>http://localhost:1313/maps/honktower/</link>
+      <link>http://localhost:1313/honktower/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/maps/honktower/</guid><description>Inspired by one of the greatest games of all time, Honktower tasks you with ascending a tower of fucked fights.</description></item>
+      <guid>http://localhost:1313/honktower/</guid><description>Inspired by one of the greatest games of all time, Honktower tasks you with ascending a tower of fucked fights.</description></item>
     <item>
       <title>Prayer</title>
-      <link>http://localhost:1313/maps/airfish/</link>
+      <link>http://localhost:1313/airfish/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/maps/airfish/</guid><description>Wowee its my second map, this was an attempt to figure out how to organically design a layout.</description></item>
+      <guid>http://localhost:1313/airfish/</guid><description>Wowee its my second map, this was an attempt to figure out how to organically design a layout.</description></item>
     <item>
       <title>Prayer</title>
-      <link>http://localhost:1313/maps/prayer/</link>
+      <link>http://localhost:1313/prayer/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/maps/prayer/</guid><description>My first released map.</description></item>
+      <guid>http://localhost:1313/prayer/</guid><description>My first released map.</description></item>
     <item>
       <title>Raindrop</title>
-      <link>http://localhost:1313/maps/raindrop/</link>
+      <link>http://localhost:1313/raindrop/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/maps/raindrop/</guid><description>Originally a 2x2 map that I decided to solo release.</description></item>
+      <guid>http://localhost:1313/raindrop/</guid><description>Originally a 2x2 map that I decided to solo release.</description></item>
   </channel>
 </rss>
