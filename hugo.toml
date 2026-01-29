@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Honkworks'
-theme = 'Gallery'
 
 [params]
   imageBaseURL = "https://assets.honkworks.net"
